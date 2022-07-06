@@ -30,6 +30,11 @@ h1 {
   align-items: center;
 }
 
+#classical-ref {
+  text-align: left;
+  justify-content: start;
+}
+
 .classical-button {
   width: fit-content;
   margin-top: 0.5rem;

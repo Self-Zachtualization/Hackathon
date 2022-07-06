@@ -63,7 +63,7 @@ $jazzButton.click(function () {
   conductor.setTempo(70);
 
   var trumpet = conductor.createInstrument("sawtooth", "oscillators");
-  trumpet.setVolume(25);
+  trumpet.setVolume(20);
 
   // Bar 1
   trumpet.note("dottedQuarter", "D4");
